@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.eeab2570.css",
-    "main.js": "/static/js/main.e3b3fef8.js",
+    "main.css": "/static/css/main.9f3e4ed8.css",
+    "main.js": "/static/js/main.91c0d844.js",
     "static/js/787.5a720903.chunk.js": "/static/js/787.5a720903.chunk.js",
     "static/media/MoreSugar-Regular.ttf": "/static/media/MoreSugar-Regular.a447f1f6ea779d9f4a99.ttf",
-    "static/media/gasStation.png": "/static/media/gasStation.ed039c797ffb3bf1eb0b.png",
-    "static/media/fallDay.png": "/static/media/fallDay.3476bda6ae24bc4bd8e6.png",
     "static/media/chikfila.png": "/static/media/chikfila.3f0b63fb48301e40926e.png",
     "static/media/crumbl.png": "/static/media/crumbl.3800a220033efff36b72.png",
     "index.html": "/index.html",
-    "main.eeab2570.css.map": "/static/css/main.eeab2570.css.map",
-    "main.e3b3fef8.js.map": "/static/js/main.e3b3fef8.js.map",
+    "main.9f3e4ed8.css.map": "/static/css/main.9f3e4ed8.css.map",
+    "main.91c0d844.js.map": "/static/js/main.91c0d844.js.map",
     "787.5a720903.chunk.js.map": "/static/js/787.5a720903.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eeab2570.css",
-    "static/js/main.e3b3fef8.js"
+    "static/css/main.9f3e4ed8.css",
+    "static/js/main.91c0d844.js"
   ]
 }
